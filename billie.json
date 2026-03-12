@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1710201600,
+      "filename": "evolution_billie-ota-....zip",
+      "id": "YOUR_ZIP_MD5_OR_SHA256_HASH",
+      "romtype": "unofficial",
+      "size": 2147483648,
+      "url": "https://sourceforge.net/projects/YOUR_PROJECT/files/billie/evolution_billie-ota-....zip/download",
+      "version": "11.6.2"
+    }
+  ]
+}
